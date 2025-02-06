@@ -10,7 +10,7 @@ require (
 
 require (
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker v20.10.11+incompatible // indirect
+	github.com/docker/docker 20.10.24, 23.0.3 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
